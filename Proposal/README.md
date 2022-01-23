@@ -8,7 +8,7 @@
 
 ## **Introduction**
 
-Alzheimer is a progressive disese, where dementia symptoms gradually worsen
+Alzheimer is a progressive disease, where dementia symptoms gradually worsen
 over a number of years. Image processing plays an important role in the early detection of Alzheimer disease so that patients
 can be prevented before irreversible changes occur in the brain. 
 
