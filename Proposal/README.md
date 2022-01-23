@@ -23,11 +23,11 @@ inserting an x-ray.
 
 • Technologies:
 
-google colab, Python, Vs Code
+google colab, Python, Visual Studio Code
 
 • Libraries:
 
-Pandas , Numpy, Matplotlibe, Seaborn , Sklearn, Tensorflow, Keras, Scikit-learn 
+Pandas , Numpy, Matplotlibe, Seaborn , Sklearn, Tensorflow, Keras, Flask, Sci-Kit Learn 
                  
 ## **Algorithms:**
 
@@ -35,18 +35,6 @@ Pandas , Numpy, Matplotlibe, Seaborn , Sklearn, Tensorflow, Keras, Scikit-learn
  - VGG19
  - Inceptionv3
  - Xception
-
-## **Conclusion:**
-Applications of automated classification techniques using machine learning (ML)
-and artificial intelligence (AI) are constantly becoming more accurate than
-manual classification.
-So we proposed a system that detects and classifies alzheimer's using deep learning algorithms.
-
-## **Future Work:**
-
-- Improve the model and website.
-- present a the project proposal the model forsaudi
-   alzheimer's disease association.
 
 ## **Dataset Source:**
   It was uploaded from Kaggle website, [Click here to go to Dataset](https://www.kaggle.com/gautamgc75/alzheimer-detect-1/data)
