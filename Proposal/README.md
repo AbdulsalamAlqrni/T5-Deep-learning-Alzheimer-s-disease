@@ -14,8 +14,8 @@ can be prevented before irreversible changes occur in the brain.
 
 ## **Problem Statement:**
 
-In this Project, we have the problem of Alzheimer's disease. We built
-a model that detects Alzheimer's disease and its progression by
+In this Project, we have the problem of Alzheimer disease. We built
+a model that detects Alzheimer disease and its progression by
 inserting an x-ray.
 
 
